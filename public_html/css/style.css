@@ -1,11 +1,41 @@
-body{
-    background-color: bisque;
+html{
+    background-color: deeppink;
 }
  
 nav a {
-    color: darkviolet;
+    color: black;
 }
 
 #curent-link{
     
 }
+
+.uppercase {
+    text-transform: uppercase; 
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
+
+h1 {
+    border: 10px;
+    border-style: groove;
+    border-color: purple;
+    font-size: 48px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 450px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+
+body{
+    color: #80deea;
+}
+
+
