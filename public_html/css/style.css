@@ -1,5 +1,6 @@
 html{
-    background-color: deeppink;
+  background-color: chartreuse;
+  text-align: center;
 }
  
 nav a {
@@ -26,7 +27,7 @@ h1 {
     font-size: 48px;
     padding-top: 15px;
     padding-bottom: 15px;
-    padding-left: 450px;
+    padding-left: 21px;
     margin-top: 20px;
     margin-bottom: 20px;
     margin-right: 100px;
@@ -35,7 +36,7 @@ h1 {
 
 
 body{
-    color: #80deea;
+    color: black;
 }
 
 
